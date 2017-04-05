@@ -1,0 +1,12 @@
+[Locations]
+tracked_directory = /home/alex/federalistpapers/
+tracking_file = /home/alex/federalistpapers/federalistpapers.txt
+
+[Email]
+smtp_server = smtp.gmail.com
+smtp_port = 587
+username = a.ham@gmail.com
+password = notthrowingawaymyshot
+waiting_days = 1
+waiting_seconds = 0
+last_email = 2016-07-04 12:29:34.643825
