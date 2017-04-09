@@ -69,4 +69,4 @@ if __name__ == "__main__":
         )
         # write that you indeed sent the email
         cp.set("Email", "last_email", datetime.now().__str__())
-        cp.write(open('config', 'w'))
+        cp.write(open(os.path.join(this_dir, 'config'), 'w'))
